@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>windows_users.png</file>
+        <file>kcontrol.png</file>
+    </qresource>
+</RCC>
